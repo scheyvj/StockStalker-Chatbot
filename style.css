@@ -211,7 +211,7 @@ body {
     width: 6px;
     border-radius: 50%;
     background: #626465;
-    animation: blink 1.4s infinite ease-in-out alternate;
+    animation: blink 1.8s infinite ease-in-out alternate;
 }
 
 /* Dot Animation (Blinking Effect) */
@@ -308,3 +308,5 @@ body {
 .chat-form .chat-controls button:hover {
     background: #fff;
 }
+
+
